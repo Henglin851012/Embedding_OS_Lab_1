@@ -1,4 +1,3 @@
-"# lab1-traffic-light-Henglin851012" 
 
 # create 2 個 task :
 
